@@ -4,7 +4,7 @@
   import  alghero3  from "./lib/alghero3.png";
   import  tsunami1  from "./lib/tsunami1.png";
 
-  const year = 2024;
+  const year = 2025;
   const date = "11 agosto";
 
   let navItems = [
