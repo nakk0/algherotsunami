@@ -5,7 +5,7 @@
   import  tsunami1  from "./lib/tsunami1.png";
 
   const year = 2025;
-  const date = "11 agosto";
+  const date = "11 Agosto";
 
   let navItems = [
       { name: 'Home', href: '#home' },
